@@ -25,7 +25,7 @@ npx expo start
 - Node.js
 
 ## 貢獻指南
-歡迎對 EGwear 進行貢獻！請先閱讀 `CONTRIBUTING.md` 文件，了解如何為專案提交貢獻。
+歡迎對 EGwear 進行貢獻！
 
 ## 聯絡資訊
 如有任何問題，請通過以下方式聯繫我們：
