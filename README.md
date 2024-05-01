@@ -17,7 +17,7 @@ cd EGwear
 npx expo start
 ```
 若出現 'npx' 不是內部或外部命令、可執行的程式或批次檔。
-則表示需安裝Node.js
+則表示未安裝Node.js
 
 ## 技術棧
 - React Native
